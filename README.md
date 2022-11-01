@@ -1,7 +1,7 @@
 
 
 # Yaroslav Shiryakov
-<img src="/img/photo.png" width=400>
+<img src="/img/photo.png" width=400 margin="0px auto" display=block>
 
 ## Junior Frontend Developer
 ---
