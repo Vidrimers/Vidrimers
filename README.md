@@ -32,7 +32,7 @@
 
 > Gulp
 
-> JavaScript preBasic
+> JavaScript Basic
 
 > SASS
 
@@ -46,7 +46,6 @@
 
 ## Courses
 
----
 
 * От 0 до 1 Вадим Прокопчук
     + Различные марафоны
