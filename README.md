@@ -3,7 +3,7 @@
 # Yaroslav Shiryakov
 <img src="/img/photo.png" width=400>
 
-## Junior Frontend Developer
+## Frontend Developer
 ---
 ## Contacts
 
@@ -20,11 +20,7 @@
 ---
 ## About me
 
-Привет, меня зовут Ширяков Ярослав, я начинающий веб-разработчик
-
-В процессе изучения Javascript
-
-Есть своя страница-портфолио на [gh-pages](https://vidrimers.github.io/), туда добавляю свои проекты и работы по макетам
+Меня зовут Ярослав, я веб-разработчик
 
 ---
 
@@ -50,10 +46,6 @@
 
 ## Courses
 
-* Дмитрий Лаврик
-    + Классическая вёрстка
-    + Javascript Интенсивный базовый курс
-
 ---
 
 * От 0 до 1 Вадим Прокопчук
@@ -69,11 +61,6 @@
 
 * Sololearn
     + HTML/CSS/JavaScript
-
----
-
-* GeekBrains
-    + Веб-разработка для начинающих
 
 ---
 
