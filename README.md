@@ -4,8 +4,8 @@
 <img src="/img/photo.png" width=400>
 
 ## Frontend Developer
----
-## Contacts
+
+### Contacts
 
 **Email:** vidrimers2@gmail.com
 
@@ -17,14 +17,10 @@
 
 **[My GitHub Page](https://vidrimers.github.io/)**
 
----
-## About me
-
-Меня зовут Ярослав, я веб-разработчик
 
 ---
 
-## Skills
+### Skills
 
 > HTML
 
@@ -44,28 +40,9 @@
 
 ---
 
-## Courses
+### Courses
 
-
-* От 0 до 1 Вадим Прокопчук
-    + Различные марафоны
-    + Верстка сайтов от 0 до 1
-
----
-
-* Михаил Непомнящий
-    + Компетенция Верстальщик
-
----
-
-* Sololearn
-    + HTML/CSS/JavaScript
-
----
-
-* Stepik.org
-    + ОСНОВЫ Html & CSS
-
-## Certificates
-
-<img src="https://vidrimers.github.io/portfolio.oldportfolio//img/cert/1.jpg" width="200"> <img src="https://vidrimers.github.io/portfolio.oldportfolio//img/cert/2.jpg" width="200"> <img src="https://vidrimers.github.io/portfolio.oldportfolio//img/cert/3.jpg" width="200"> <img src="https://vidrimers.github.io/portfolio.oldportfolio//img/cert/4.jpg" width="200"> <img src="https://vidrimers.github.io/portfolio.oldportfolio//img/cert/5.jpg" width="200"> <img src="https://vidrimers.github.io/portfolio.oldportfolio//img/cert/6.jpg" width="200"> <img src="https://vidrimers.github.io/portfolio.oldportfolio//img/cert/7.jpg" width="200">
+##### > От 0 до 1 Вадим Прокопчук
+##### > Михаил Непомнящий
+##### > Sololearn
+##### > Stepik.org
