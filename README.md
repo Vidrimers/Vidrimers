@@ -23,19 +23,12 @@
 ### Skills
 
 > HTML
-
 > CSS
-
 > Gulp
-
 > JavaScript Basic
-
 > SASS
-
 > BEM
-
 > Adobe Photoshop
-
 > Figma
 
 ---
