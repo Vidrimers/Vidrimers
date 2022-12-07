@@ -46,3 +46,5 @@
 ##### > Михаил Непомнящий
 ##### > Sololearn
 ##### > Stepik.org
+##### > code-basics.com, hexlet.io
+##### > learn.javascript.ru
