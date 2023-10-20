@@ -14,7 +14,7 @@
 
 ---
 
-### Skills
+###  Technology stack
 
 > HTML / CSS / SASS
 >
