@@ -1,5 +1,17 @@
 ## Frontend Developer
 
+###  Technology stack
+
+> HTML / CSS / SASS
+>
+> BEM
+> 
+> JavaScript Basic / Gulp
+>
+> Adobe Photoshop / Figma
+
+---
+
 ### Contacts
 
 **[Website](https://vidrimers.github.io/)**
@@ -12,14 +24,5 @@
 
 **Email:** vidrimers2@gmail.com
 
----
 
-###  Technology stack
 
-> HTML / CSS / SASS
->
-> BEM
-> 
-> JavaScript Basic / Gulp
->
-> Adobe Photoshop / Figma
