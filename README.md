@@ -2,7 +2,7 @@
 
 ### Contacts
 
-**Email:** vidrimers2@gmail.com
+**[Website](https://vidrimers.github.io/)**
 
 **Telegram:** [@Vidrimers](https://t.me/Vidrimers)
 
@@ -10,15 +10,13 @@
 
 **[Linkedin](https://www.linkedin.com/in/yaroslav-shiryakov-79a426183/)**
 
-**[Website](https://vidrimers.github.io/)**
-
+**Email:** vidrimers2@gmail.com
 
 ---
 
 ### Skills
 
 > HTML
->
 > CSS
 >
 > Gulp
