@@ -16,17 +16,10 @@
 
 ### Skills
 
-> HTML
-> CSS
->
-> Gulp
->
-> JavaScript Basic
->
-> SASS
+> HTML / CSS / SASS
 >
 > BEM
+> 
+> JavaScript Basic / Gulp
 >
-> Adobe Photoshop
->
-> Figma
+> Adobe Photoshop / Figma
