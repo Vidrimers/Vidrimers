@@ -1,8 +1,3 @@
-
-
-# Yaroslav Shiryakov
-<img src="/img/photo.png" width=400>
-
 ## Frontend Developer
 
 ### Contacts
