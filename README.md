@@ -10,7 +10,7 @@
 
 **[Linkedin](https://www.linkedin.com/in/yaroslav-shiryakov-79a426183/)**
 
-**[My GitHub Page](https://vidrimers.github.io/)**
+**[Website](https://vidrimers.github.io/)**
 
 
 ---
