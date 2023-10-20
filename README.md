@@ -37,14 +37,3 @@
 > Adobe Photoshop
 >
 > Figma
-
----
-
-### Courses
-
-##### > От 0 до 1 Вадим Прокопчук
-##### > Михаил Непомнящий
-##### > Sololearn
-##### > stepik.org
-##### > code-basics.com, hexlet.io
-##### > learn.javascript.ru
